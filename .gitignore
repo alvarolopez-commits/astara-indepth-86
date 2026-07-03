@@ -1,0 +1,8 @@
+*.xlsx
+*.docx
+*.jpg
+*.png
+*.txt
+cover_b64.txt
+.claude/
+~$*

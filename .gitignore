@@ -1,9 +1,8 @@
 *.xlsx
 *.docx
-*.pdf
-*.ai
+*.jpg
+*.png
 *.txt
 cover_b64.txt
 .claude/
 ~$*
-CAPTURA.*
